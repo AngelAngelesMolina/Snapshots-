@@ -18,3 +18,8 @@ App con un concepto similar a una app social como instagram, donde cada usuario 
 - Realtime database 
 
  ## Screenshots
+  ![Vista principal](https://github.com/AngelAngelesMolina/Snapshots-/blob/main/app/home_snapshots.png?raw=true)
+  ![Vista miembros](https://github.com/AngelAngelesMolina/Snapshots-/blob/main/app/upload_snapshots.png?raw=true)
+  ![Vista miembros](https://github.com/AngelAngelesMolina/Snapshots-/blob/main/app/confirmUpload_snapshots.png?raw=true)
+  ![Vista miembros](https://github.com/AngelAngelesMolina/Snapshots-/blob/main/app/profile_snapshots.png?raw=true)
+  ![Vista miembros](https://github.com/AngelAngelesMolina/Snapshots-/blob/main/app/login_snapshots.png?raw=true)
